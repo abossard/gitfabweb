@@ -1,4 +1,5 @@
-How to install a wordpress based app on padogabox
+Let's install it on pagodabox
+=============================
 
 
 1. Go to https://dashboard.pagodabox.com/ and create a new app
